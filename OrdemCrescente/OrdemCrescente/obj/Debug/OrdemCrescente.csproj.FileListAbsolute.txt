@@ -1,0 +1,10 @@
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe.config
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.exe
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\bin\Debug\OrdemCrescente.pdb
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csprojAssemblyReference.cache
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.frmOrdemCrescente.resources
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.Properties.Resources.resources
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.GenerateResource.cache
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.exe
+C:\Users\dudan\Downloads\OrdemCrescente\OrdemCrescente\OrdemCrescente\obj\Debug\OrdemCrescente.pdb
